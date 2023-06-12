@@ -1,4 +1,4 @@
-# Shin Dong geol 🙋‍♂️
+# Shin donggeol 🙋‍♂️
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=geolyunn)](https://solved.ac/geolyunn/)
 
 # 💻Skills
