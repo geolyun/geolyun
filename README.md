@@ -12,10 +12,10 @@
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black"/></a> &nbsp 
 <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat-square&logo=kotlin&logoColor=white"/></a> &nbsp 
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white"/></a> &nbsp 
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=flat-square&logo=jquery&logoColor=white"/></a> &nbsp 
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=python&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=python&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=python&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/></a> &nbsp
 </p>
 
