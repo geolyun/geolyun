@@ -1,13 +1,13 @@
-<h2 align="center">Shin donggeol 🙋‍♂️</h2><br>
+<h2 align="center">Shin donggeol 🙋‍♂️</h2><br /><br />
 
 
 <p align="center">
   👋 스프링을 주 프레임워크로 사용하는 시행착오를 통해 성장해나가는 백엔드 개발자입니다🚀
-</p> <br>
+</p> <br /><br />
 
-<div align="center"> 
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=geolyunn)](https://solved.ac/geolyunn/)
-</div> <br>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=geolyunn)](https://solved.ac/geolyunn/) <br /><br />
+
 
 # 💻Skills
 ### Platforms & Languages
@@ -29,7 +29,7 @@
 <img src="https://img.shields.io/badge/elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/apachekafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/redis-FF4438?style=flat-square&logo=redis&logoColor=white"/></a> &nbsp
-</p>
+</p> <br />
 
 <div align="center">
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="41" height="41" />
