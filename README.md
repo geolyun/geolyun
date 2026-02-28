@@ -1,12 +1,13 @@
-<h2 align="center">Shin donggeol 🙋‍♂️</h2>
+<h2 align="center">Shin donggeol 🙋‍♂️</h2><br>
 
 
 <p align="center">
   👋 스프링을 주 프레임워크로 사용하는 시행착오를 통해 성장해나가는 백엔드 개발자입니다🚀
-</p>
+</p> <br>
 
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=geolyunn)](https://solved.ac/geolyunn/)
+<div align="center"> 
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=geolyunn)](https://solved.ac/geolyunn/)
+</div> <br>
 
 # 💻Skills
 ### Platforms & Languages
