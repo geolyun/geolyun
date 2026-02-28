@@ -1,4 +1,11 @@
-# Shin donggeol 🙋‍♂️
+<h2 align="center">Shin donggeol 🙋‍♂️</h2>
+
+
+<p align="center">
+  👋 스프링을 주 프레임워크로 사용하는 시행착오를 통해 성장해나가는 백엔드 개발자입니다🚀
+</p>
+
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=geolyunn)](https://solved.ac/geolyunn/)
 
 # 💻Skills
@@ -31,9 +38,3 @@
   <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="41" height="41" />
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="41" height="41" />
 </div> <br>
-
-## 🤔 Github Stats
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sdg_0__0)](https://github.com/anuraghazra/github-readme-stats)
-  <br/>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sdg_0__0)](https://github.com/anuraghazra/github-readme-stats)
-  
