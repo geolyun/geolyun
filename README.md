@@ -23,13 +23,11 @@
 <img src="https://img.shields.io/badge/redis-FF4438?style=flat-square&logo=redis&logoColor=white"/></a> &nbsp
 </p>
 
-<p align="center">
-  <div style="display: flex; align-items: flex-start;">
-    <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="41" height="41" />
-    <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="41" height="41" />
-    <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="41" height="41" />
-    <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="41" height="41" />
-    <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="41" height="41" />
-    <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="41" height="41" />
-  </div>
-</p>  
+<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="41" height="41" />
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="41" height="41" />
+  <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="41" height="41" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="41" height="41" />
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="41" height="41" />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="41" height="41" />
+</div>
