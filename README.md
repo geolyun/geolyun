@@ -19,5 +19,7 @@
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/apachekafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/redis-FF4438?style=flat-square&logo=redis&logoColor=white"/></a> &nbsp
 </p>
 
