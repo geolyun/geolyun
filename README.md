@@ -32,7 +32,8 @@
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="41" height="41" />
 </div> <br>
 
-<div align= "center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📋 Stat 📋 </h2>
-
-![Geolyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=geolyun&show_icons=true&theme=radical)
+## 🤔 Github Stats
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=geolyun)](https://github.com/anuraghazra/github-readme-stats)
+  <br/>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geolyun)](https://github.com/anuraghazra/github-readme-stats)
+  
