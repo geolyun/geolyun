@@ -30,4 +30,9 @@
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="41" height="41" />
   <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="41" height="41" />
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="41" height="41" />
-</div>
+</div> <br>
+
+<div align= "center">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📋 Stat 📋 </h2>
+
+![Geolyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=geolyun&show_icons=true&theme=radical)
