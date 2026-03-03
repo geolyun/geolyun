@@ -1,9 +1,9 @@
-<h2 align="center">Shin donggeol 🙋‍♂️</h2><br /><br />
+<h1 align="center">Shin donggeol 🙋‍♂️</h1><br /><br />
 
 
-<p align="center">
+<h3 align="center">
   👋 스프링을 주 프레임워크로 사용하는 시행착오를 통해 성장해나가는 백엔드 개발자입니다🚀
-</p> <br /><br />
+</h3> <br /><br />
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=geolyunn)](https://solved.ac/geolyunn/) <br /><br />
