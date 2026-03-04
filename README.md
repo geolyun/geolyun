@@ -39,5 +39,3 @@
   <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="41" height="41" />
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="41" height="41" />
 </div> <br />
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=geolyun&repo=portfolio)]
